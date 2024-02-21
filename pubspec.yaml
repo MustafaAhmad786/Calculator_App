@@ -36,6 +36,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   math_expressions: ^2.4.0
+  lottie: ^3.0.0
 
 dev_dependencies:
   flutter_test:
@@ -60,6 +61,7 @@ flutter:
   assets:
     - assets/logo.png
     - assets/shah.jpg
+    - assets/
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
