@@ -197,7 +197,6 @@ class _CalculatorAppState extends State<CalculatorApp> {
                     buttonBgColor: operatorColor,
                     tColor: orangeColor,
                   ),
-                  button(text: "", buttonBgColor: Colors.transparent),
                   button(
                     text: "/",
                     buttonBgColor: operatorColor,
